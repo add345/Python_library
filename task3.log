@@ -1,0 +1,4 @@
+DEBUG:root:Отработка создания нового экземпляра класса Archive.
+INFO:Archive:Вызов конструктора класса Archive с параметрами number=32, text=qwerty
+DEBUG:root:Отработка создания нового экземпляра класса Archive.
+INFO:Archive:Вызов конструктора класса Archive с параметрами number=23, text=uiop
